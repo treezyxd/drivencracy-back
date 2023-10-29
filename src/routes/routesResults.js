@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { getResults } from "../controllers/controllersChoices.js";
+import { getResults } from "../controllers/controllersResults.js";
 
 const routerResult = Router()
 

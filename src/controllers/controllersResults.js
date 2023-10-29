@@ -1,4 +1,4 @@
-import { db } from "../database/databaseConecction.js"
+import { db } from "../database/databaseConnection.js"
 import { ObjectId } from "mongodb"
 
 
